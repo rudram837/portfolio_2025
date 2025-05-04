@@ -1,13 +1,13 @@
 # arasgungore.github.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://arasgungore.github.io).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://rudram837.github.io/portfolio_2025/).
 
 
 
 ## Screenshots
 
 <p float="center">
-    <img src="https://github.com/arasgungore/arasgungore.github.io/blob/main/Screenshots/1.png" width="800">
+    <img src="https://github.com/rudram837/portfolio_2025/blob/main/Screenshots/Screenshot%202025-05-04%20180104.png" width="800">
 </p>
 
 
@@ -16,5 +16,5 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 👤 **Aras Güngöre**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [@arasgungore](https://www.linkedin.com/in/rudra-maurya-6bb350253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* GitHub: [@arasgungore](https://github.com/rudram837)
