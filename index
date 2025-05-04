@@ -1,0 +1,34 @@
+education:
+
+<div class="col-lg-12" data-aos="fade-up">
+          <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100">
+            <a href="http://www.boun.edu.tr/en_US" target="_blank"><img src="assets/img/education/boun_transparent.png" class="img-fluid" style="float:left;margin:0 10px 0 0;" width="90"></a>
+            <h4 style="text-align:left;"><a href="http://www.boun.edu.tr/en_US" target="_blank" style="color:#12d640">Boğaziçi University</a><br> </h4>
+            <h5 style="text-align:left;"><em>Bachelor of Science in Electrical and Electronics Engineering; <strong>GPA: 3.62/4.00</strong></em></h5>
+            <span class="left" style="float:left;color:#fff;"><em>September 2018 - June 2023</em></span>
+            <span class="right" style="float:right;color:#fff;"><em>Istanbul, Turkey</em></span><br><br>
+            <h6 style="text-align:left;"><strong>Field of Specialization:</strong> Communication Systems and Signal Processing</h6>
+            <h6 style="text-align:left;"><strong>Senior Design Project:</strong> Keyword Search for Sign Language</h6>
+            <h6 style="text-align:left;"><strong>High Honors Degree:</strong> Awarded to Bachelor alumni who have graduated with a GPA greater than or equal to 3.50. (July 2023)</h6>
+            <h6 style="text-align:left;"><strong>National University Admission Exam (YKS):</strong> Ranked 75<sup>th</sup> in Mathematics and Science among ca. 2.3 million candidates with a test score of 489.92/500. (July 2018)</h6>
+            <h6 style="text-align:left;"><strong>Relevant Coursework:</strong></h6>
+            <ul style="columns:2;text-align:left;">
+              <li>Materials Science</li>
+              <li>Electrical Circuits I&#8209;II</li>
+              <li>Digital System Design</li>
+              <li>Numerical Methods</li>
+              <li>Probability Theory</li>
+              <li>Electronics I&#8209;II</li>
+              <li>Signals and Systems</li>
+              <li>Electromagnetic Field Theory</li>
+              <li>Energy Conversion</li>
+              <li>System Dynamics and Control</li>
+              <li>Communication Engineering</li>
+              <li>Pattern Recognition</li>
+              <li>Introduction to Digital Signal Processing</li>
+              <li>Introduction to Digital Communications</li>
+              <li>Introduction to Database Systems</li>
+              <li>Introduction to Image Processing</li>
+              <li>Machine Vision</li>
+            </ul>
+          </div>
