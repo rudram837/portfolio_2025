@@ -1145,3 +1145,8 @@ section .container {
   box-shadow: 0 10px 30px rgba(18, 214, 100, 0.5); /* green glow on hover */
   transform: translateY(-5px);
 }
+
+.try-app-btn:hover {
+  filter: brightness(1.1);
+  transform: scale(1.05);
+}
