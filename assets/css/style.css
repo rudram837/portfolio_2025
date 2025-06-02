@@ -1132,3 +1132,16 @@ section .container {
   }
 }
 
+.icon-box {
+  background-color: #1a1a1a; /* optional dark background */
+  border-radius: 20px;
+  padding: 15px;
+  margin: 10px;
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35); /* normal shadow */
+}
+
+.icon-box:hover {
+  box-shadow: 0 10px 30px rgba(18, 214, 100, 0.5); /* green glow on hover */
+  transform: translateY(-5px);
+}
