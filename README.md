@@ -1,6 +1,6 @@
 # rudramaurya.github.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://rudram837.github.io/portfolio_2025/).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://rudram837.github.io/portfolio/).
 
 
 
